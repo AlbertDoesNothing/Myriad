@@ -10,7 +10,6 @@ from datetime import datetime, timedelta
 
 os.environ["GLOG_minloglevel"] = "2"
 
-# === CONFIGURATION ===
 CAMERA_INDEX_OPTIONS = [1, 0]
 FRAME_WIDTH = 640
 FRAME_HEIGHT = 320
